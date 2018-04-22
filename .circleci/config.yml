@@ -1,0 +1,35 @@
+---
+version: 2
+jobs:
+  node-latest: &test
+    docker:
+      - image: node:latest
+    working_directory: ~/houston
+    steps:
+      - checkout
+      - run: yarn
+      - run: yarn test
+  node-8:
+    <<: *test
+    docker:
+      - image: node:8
+  release:
+    <<: *test
+    steps:
+      - add_ssh_keys
+      - checkout
+      - run: .circleci/release
+
+workflows:
+  version: 2
+  "eslint-config-lyndon":
+    jobs:
+      - node-latest
+      - node-8
+      - release:
+          context: org-global
+          filters:
+            branches: {only: master}
+          requires:
+            - node-latest
+            - node-8
