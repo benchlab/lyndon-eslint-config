@@ -1,7 +1,7 @@
 {
   "name": "lyndon-eslint-config",
   "description": "Lyndon's Eslint Config.",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "author": ["Jeff Dickey @jdxcode", "BenchLabs @benchlabs"],
   "bugs": "https://github.com/benchlab/lyndon-eslint-config/issues",
   "dependencies": {
