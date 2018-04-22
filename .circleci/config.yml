@@ -22,7 +22,7 @@ jobs:
 
 workflows:
   version: 2
-  "eslint-config-lyndon":
+  "lyndon-eslint-config":
     jobs:
       - node-latest
       - node-8
