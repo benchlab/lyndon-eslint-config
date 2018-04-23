@@ -11,3 +11,6 @@ Lyndon's Eslint Config.
 [![Known Vulnerabilities](https://snyk.io/test/npm/lyndon-eslint-config/badge.svg)](https://snyk.io/test/npm/lyndon-eslint-config)
 [![Downloads/week](https://img.shields.io/npm/dw/lyndon-eslint-config.svg)](https://npmjs.org/package/lyndon-eslint-config)
 [![License](https://img.shields.io/npm/l/lyndon-eslint-config.svg)](https://github.com/benchlab/lyndon-eslint-config/blob/master/package.json)
+
+
+### To utilize this library, please go to the [Lyndon Repository](https://github.com/benchlab/lyndon)
