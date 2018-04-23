@@ -5,7 +5,7 @@ Lyndon's Eslint Config.
 
 [![Version](https://img.shields.io/npm/v/eslint-config-lyndon.svg)](https://npmjs.org/package/eslint-config-lyndon)
 [![CircleCI](https://circleci.com/gh/benchlab/eslint-config-lyndon/tree/master.svg?style=svg)](https://circleci.com/gh/benchlab/eslint-config-lyndon/tree/master)
-[![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/benchlab/eslint-config-lyndon?branch=master&svg=true)](https://ci.appveyor.com/project/benchlab/eslint-config-lyndon/branch/master)
+[![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/benchlab/eslint-config-lyndon?branch=master&svg=true)](https://ci.appveyor.com/project/heroku/eslint-config-lyndon/branch/master)
 [![Codecov](https://codecov.io/gh/benchlab/eslint-config-lyndon/branch/master/graph/badge.svg)](https://codecov.io/gh/benchlab/eslint-config-lyndon)
 [![Greenkeeper](https://badges.greenkeeper.io/benchlab/eslint-config-lyndon.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/npm/eslint-config-lyndon/badge.svg)](https://snyk.io/test/npm/eslint-config-lyndon)
