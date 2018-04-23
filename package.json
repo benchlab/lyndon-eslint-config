@@ -1,9 +1,12 @@
 {
-  "name": "lyndon-eslint-config",
+  "name": "eslint-config-lyndon",
   "description": "Lyndon's Eslint Config.",
-  "version": "0.4.4",
-  "author": ["Jeff Dickey @jdxcode", "BenchLabs @benchlabs"],
-  "bugs": "https://github.com/benchlab/lyndon-eslint-config/issues",
+  "version": "0.4.9",
+  "author": [
+    "Jeff Dickey @jdxcode",
+    "BenchLabs @benchlabs"
+  ],
+  "bugs": "https://github.com/benchlab/eslint-config-lyndon/issues",
   "dependencies": {
     "eslint-config-xo-space": "^0.18.0",
     "eslint-plugin-mocha": "^4.12.1",
@@ -19,13 +22,13 @@
   "files": [
     "/index.js"
   ],
-  "homepage": "https://github.com/benchlab/lyndon-eslint-config",
+  "homepage": "https://github.com/benchlab/eslint-config-lyndon",
   "keywords": [
     "lyndon"
   ],
   "license": "MIT",
   "main": "index.js",
-  "repository": "lyndon/lyndon-eslint-config",
+  "repository": "https://github.com/benchlab/eslint-config-lyndon",
   "scripts": {
     "test": "eslint -c index.js ."
   }
