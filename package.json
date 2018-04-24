@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-lyndon",
   "description": "Lyndon's Eslint Config.",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "author": [
     "Jeff Dickey @jdxcode",
     "BenchLabs @benchlabs"
