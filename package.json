@@ -9,7 +9,7 @@
   "bugs": "https://github.com/benchlab/eslint-config-lyndon/issues",
   "dependencies": {
     "eslint-config-xo-space": "^0.18.0",
-    "eslint-plugin-mocha": "^4.12.1",
+    "eslint-plugin-mocha": "^6.3.0",
     "eslint-plugin-node": "^6.0.1",
     "eslint-plugin-unicorn": "^4.0.2"
   },
